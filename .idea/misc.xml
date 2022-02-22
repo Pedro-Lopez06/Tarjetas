@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/52375/AndroidStudioProjects/Tarjetas/app/src/main/res/drawable/boton_card.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/52375/AndroidStudioProjects/Tarjetas/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/52375/AndroidStudioProjects/Tarjetas/app/src/main/res/layout/activity_practica.xml" value="0.2" />
+        <entry key="..\:/Users/52375/AndroidStudioProjects/Tarjetas/app/src/main/res/layout/activity_resultado.xml" value="0.2" />
       </map>
     </option>
   </component>
